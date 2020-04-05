@@ -26,6 +26,8 @@ The shield files are 8 1/2" x 11". If you can source letter size plastic you can
 
 Check out our blog posts about the process and the progress: https://milwaukeemakerspace.org/tag/mmsppe/
 
+If you want to help support our efforts, you can donate: https://charity.gofundme.com/o/en/campaign/ppe-for-milwaukee
+
 ![](Images/face-shield-01.jpg)
 
 ![](Images/face-shield-02.jpg)
