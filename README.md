@@ -32,6 +32,8 @@ If you want to help support our efforts, you can donate: https://charity.gofundm
 
 ![](Images/face-shield-02.jpg)
 
+![](Images/hdpe-visors.jpg)
+
 ---
 
 Milwaukee Makerspace
