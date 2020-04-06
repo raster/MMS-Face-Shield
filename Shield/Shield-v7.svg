@@ -15,7 +15,7 @@
    id="svg4195"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Face shield film v7.svg">
+   sodipodi:docname="Shield-v7.svg">
   <defs
      id="defs4197" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71709512"
-     inkscape:cx="521.42857"
+     inkscape:cx="267.29252"
      inkscape:cy="292.85714"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,13 +55,11 @@
      id="layer1"
      transform="translate(0,-287.36217)">
     <g
-       id="g4787"
-       transform="matrix(1.2498323,0,0,1.2498323,1832.4455,265.17804)"
-       style="fill:#000000;fill-opacity:0.19607843">
+       id="g4166">
       <g
          style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="LWPOLYLINE"
-         transform="translate(-1396,17.790741)">
+         transform="matrix(1.2498323,0,0,1.2498323,87.679609,287.41348)">
         <path
            style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path6"
@@ -71,21 +69,8 @@
       </g>
       <g
          style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="LINE"
-         transform="translate(-1396,17.790741)">
-        <line
-           style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="line9"
-           y2="612"
-           x2="325.89999"
-           y1="0"
-           x1="325.89999"
-           class="st0" />
-      </g>
-      <g
-         style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="CIRCLE"
-         transform="translate(-1396,17.790741)">
+         transform="matrix(1.2498323,0,0,1.2498323,87.679609,287.41348)">
         <path
            style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path12"
@@ -96,7 +81,7 @@
       <g
          style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="CIRCLE_1_"
-         transform="translate(-1396,17.790741)">
+         transform="matrix(1.2498323,0,0,1.2498323,87.679609,287.41348)">
         <path
            style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path15"
@@ -107,7 +92,7 @@
       <g
          style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="CIRCLE_2_"
-         transform="translate(-1396,17.790741)">
+         transform="matrix(1.2498323,0,0,1.2498323,87.679609,287.41348)">
         <path
            style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path18"
@@ -118,7 +103,7 @@
       <g
          style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="CIRCLE_3_"
-         transform="translate(-1396,17.790741)">
+         transform="matrix(1.2498323,0,0,1.2498323,87.679609,287.41348)">
         <path
            style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path21"
@@ -129,7 +114,7 @@
       <g
          style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="CIRCLE_4_"
-         transform="translate(-1396,17.790741)">
+         transform="matrix(1.2498323,0,0,1.2498323,87.679609,287.41348)">
         <path
            style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path24"
@@ -140,7 +125,7 @@
       <g
          style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="CIRCLE_5_"
-         transform="translate(-1396,17.790741)">
+         transform="matrix(1.2498323,0,0,1.2498323,87.679609,287.41348)">
         <path
            style="fill:#000000;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.10629921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path27"
