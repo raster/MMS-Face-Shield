@@ -1,6 +1,6 @@
 # MMS Face Shield
 
-This is a face shield being produced by [Milwaukee Makerspace](https://milwaukeemakerspace.org/).
+This is a face shield being produced by [Milwaukee Makerspace](https://milwaukeemakerspace.org/) in Milwaukee, Wisconsin, USA.
 
 Our design is based on v3 of the 3DVerkstan design, North American 6 hole version:
 
