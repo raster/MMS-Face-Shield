@@ -22,6 +22,11 @@ The frame is cut from 1/4" HDPE sheets on a CNC router. (Note: HDPE cannot be cu
 
 The shield files are 8 1/2" x 11". If you can source letter size plastic you can find a variety of options for adding the holes. (The rounded corners at the bottom are not required, but are nice to have as they help prevent snagging the corner of the shield on something.)
 
+## Cleaning
+
+Please see the included PDF file with instructions for cleaning this reusable face shield.
+
+
 ## More Info
 
 Check out our blog posts about the process and the progress: https://milwaukeemakerspace.org/tag/mmsppe/
