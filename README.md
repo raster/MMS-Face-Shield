@@ -26,7 +26,6 @@ The shield files are 8 1/2" x 11". If you can source letter size plastic you can
 
 Please see the included PDF file with instructions for cleaning this reusable face shield.
 
-
 ## More Info
 
 Check out our blog posts about the process and the progress: https://milwaukeemakerspace.org/tag/mmsppe/
