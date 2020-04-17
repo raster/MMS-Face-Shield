@@ -16,7 +16,7 @@ Because of our material choices it will be easy to clean & sanitize these face s
 
 ## Frame
 
-The frame is cut from 1/4" HDPE sheets on a CNC router. (Note: HDPE cannot be cut on a laser cutter, but it is a great material for milling.)
+The frame is cut from 1/4" HDPE sheets on a CNC router using a 1/8" single flute spiral upcut endmill. (Note: HDPE cannot be cut on a laser cutter, but it is a great material for milling.)
 
 ## Shield
 
