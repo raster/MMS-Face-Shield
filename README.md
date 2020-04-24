@@ -42,7 +42,7 @@ If you want to help support our efforts, you can donate: https://charity.gofundm
 
 ![](Images/hdpe-visors.jpg)
 
-![](Images/frame-im.jpg)
+![](Images/frame-im.png)
 
 ---
 
