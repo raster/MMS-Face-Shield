@@ -24,6 +24,8 @@ The frame is cut from 1/4" HDPE sheets on a CNC router using a 1/8" single flute
 
 We have added the STEP file (Frame-Injection-Molding-v7.step) as we have moved to an injection molded version of the frame. This version may help if you are looking at doing injection molding. We are using HDPE plastic for our injection molded frames. We can easily produce 2000+ frames per day and the mold should be able to produce 200,000 frames during its lifetime.
 
+We've also included an STL file (Frame-Injection-Molding-v7.stl) _for reference only!_ We make no gurantees as to the accuracy of the STL file for use beyond anything more than as a test print.
+
 ## Shield
 
 The shield files are 8 1/2" x 11". If you can source letter size plastic you can find a variety of options for adding the holes. (The rounded corners at the bottom are not required, but are nice to have as they help prevent snagging the corner of the shield on something.)
