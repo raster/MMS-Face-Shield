@@ -14,9 +14,13 @@ The shield will be stamped from 0.01" thick rigid clear vinyl. (We originally pl
 
 Because of our material choices it will be easy to clean & sanitize these face shields. We're also facing a shortage of PETG sheets, so using clear vinyl that was available to us was a good option.
 
-## Frame
+## Frame (CNC)
 
 The frame is cut from 1/4" HDPE sheets on a CNC router using a 1/8" single flute spiral upcut endmill. (Note: HDPE cannot be cut on a laser cutter, but it is a great material for milling.)
+
+## Frame (Injection Molded)
+
+We have added the STEP file (Frame-Injection-Molding-v7.step) as we have moved to an injection molded version of the frame. This version may help if you are looking at doing injection molding. We are using HDPE plastic for our injection molded frames. We can easily produce 2000+ frames per day and the mold should be able to produce 200,000 frames during its lifetime.
 
 ## Shield
 
@@ -37,6 +41,8 @@ If you want to help support our efforts, you can donate: https://charity.gofundm
 ![](Images/face-shield-02.jpg)
 
 ![](Images/hdpe-visors.jpg)
+
+![](Images/frame-im.jpg)
 
 ---
 
