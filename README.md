@@ -10,6 +10,8 @@ Our design is based on v3 of the 3DVerkstan design, North American 6 hole versio
 
 We have modified the frame to be cut from 1/4" HDPE on a CNC router. HDPE (High-density Polyethylene) is often used for cutting boards and high-touch surfaces.
 
+_(Note: As of 2020-04-20 we have switched to using injection molding. More info below.)_
+
 The shield will be stamped from 0.01" thick rigid clear vinyl. (We originally planned to cut with a drag knife on our CNC machine but we have found local companies that have offered to create a die and stamp them for us.)
 
 Because of our material choices it will be easy to clean & sanitize these face shields. We're also facing a shortage of PETG sheets, so using clear vinyl that was available to us was a good option.
